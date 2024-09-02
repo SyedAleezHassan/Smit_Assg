@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print('Enter your birthdate.. (YYYY-MM-DD):');
+  print('Enter your birthdate... (YYYY-MM-DD):');
   String input = stdin.readLineSync()!;
   DateTime birthDate = DateTime.parse(input);
 
