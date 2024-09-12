@@ -3,7 +3,7 @@ void main() {
   int agePerson1 = 35;
   int agePerson2 = 30;
 
-  // Determine the younger and older person
+  /// Determine the younger and older person
   int youngerPerson = findYoungerPerson(agePerson1, agePerson2);
   int olderPerson = findOlderPerson(agePerson1, agePerson2);
 
