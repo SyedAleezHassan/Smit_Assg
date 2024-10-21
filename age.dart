@@ -1,5 +1,5 @@
 void main() {
-  // Hardcoded ages of two persons
+  // Hardcoded ages of two persons..
   int agePerson1 = 35;
   int agePerson2 = 30;
 
